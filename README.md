@@ -1,2 +1,2 @@
 # minhaEscola
-Exercpicios de fixação de SpringBoot - Genration Brasil.
+Exercícios de fixação de SpringBoot - Generation Brasil.
